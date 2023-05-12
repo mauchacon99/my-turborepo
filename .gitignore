@@ -32,5 +32,7 @@ yarn-error.log*
 # turbo
 .turbo
 
-# ui
+# ui-divergana
+dist/
+# ui-winchile
 dist/
